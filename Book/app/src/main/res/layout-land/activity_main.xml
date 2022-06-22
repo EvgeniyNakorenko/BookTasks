@@ -43,15 +43,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|right"
-        android:src="@drawable/arrow_left"
-        android:contentDescription="TODO" />
-    <ImageButton
-        android:id="@+id/last_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|left"
         android:src="@drawable/arrow_right"
         android:contentDescription="TODO" />
+
     </LinearLayout>
 
 </FrameLayout>
